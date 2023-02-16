@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Alma Mora",
+        "marca": "Malbec",
+        "precio": 1095,
+        "stock": 20,
+        "img": "alma-mora-malbec.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Portillo",
+        "marca": "Malbec",
+        "precio": 966,
+        "stock": 20,
+        "img": "portillo-malbec.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Elementos",
+        "marca": "Malbec",
+        "precio": 979,
+        "stock": 20,
+        "img": "elementos-malbec.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Finca Las Moras",
+        "marca": "Malbec",
+        "precio": 829,
+        "stock": 20,
+        "img": "finca-de-las-moras.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Colon",
+        "marca": "Malbec",
+        "precio": 688,
+        "stock": 20,
+        "img": "colon-malbec.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 1,
+        "nombre": "Dada",
+        "marca":"Malbec",
+        "precio": 1030,
+        "stock": 20,
+        "img": "dada-malbec.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Fernet Branca" ,
+        "marca": "Aperitivo",
+        "precio": 2030,
+        "stock": 20,
+        "img": "fernet-branca.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre": "Gancia Americano",
+        "marca": "Aperitivo",
+        "precio": 843,
+        "stock": 20,
+        "img": "gancia-americano.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 2,
+        "nombre": "Campari Bitter",
+        "marca": "Aperitivo",
+        "precio": 1510,
+        "stock": 20,
+        "img": "campari-bitter.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 2,
+        "nombre": "Aperol",
+        "marca": "Aperitvio",
+        "precio": 1270,
+        "stock": 20,
+        "img": "aperol-aperitivo.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 2,
+        "nombre": "Cynar",
+        "marca": "Aperitivo",
+        "precio": 1160,
+        "stock": 20,
+        "img": "cynar-aperitivo.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 2,
+        "nombre": "Cinzano Vermouth",
+        "marca": "Aperitivo",
+        "precio": 1015,
+        "stock": 20,
+        "img": "cinzano-vermouth.jpg"
+    }
+]
