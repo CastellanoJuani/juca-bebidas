@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
     return (
         <>
              <li className="nav-item">
-                <Link className="nav-link" to={'/'}><bottom>Inicio</bottom></Link>
+                <Link className="nav-link" to={'/'}>Inicio</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link">Sobre Nosotros</Link>
