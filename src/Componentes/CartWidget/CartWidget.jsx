@@ -1,7 +1,7 @@
 export const CartWidget = ({cantCarrito}) => {
     return(
         <>
-            <button className="btn btn-dark">Carrito</button>
+            <button className="cart"><img src="./img/cart.png" alt="" /></button>
             <p>{cantCarrito}</p>
         </>
     )

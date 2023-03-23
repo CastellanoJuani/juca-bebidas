@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 
 export const Categorias = () => {
     return (
@@ -6,8 +7,8 @@ export const Categorias = () => {
                   Bebidas
                 </a>
                 <ul className="dropdown-menu">
-                  <li><a className="dropdown-item" href="#">Vinos</a></li>
-                  <li><a className="dropdown-item" href="#">Aperitivos</a></li>
+                  <li><Link className="dropdown-item" to={'/category/1'}>Vinos</Link></li>
+                  <li><Link className="dropdown-item" to={'/category/2'}>Aperitivos</Link></li>
                 </ul>
               </li>
     )

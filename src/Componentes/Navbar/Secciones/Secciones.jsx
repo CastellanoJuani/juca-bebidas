@@ -1,12 +1,12 @@
-
+import { Link } from "react-router-dom"
  export const Secciones = () => {
     return (
         <>
              <li className="nav-item">
-                <button className="btn btn-primary">Inicio</button>
+                <Link className="nav-link" to={'/'}><bottom>Inicio</bottom></Link>
               </li>
               <li className="nav-item">
-                <button className="btn btn-primary">Sobre Nosotros</button>
+                <Link className="nav-link">Sobre Nosotros</Link>
               </li>
         </>
     )
